@@ -1,0 +1,62 @@
+body {background-color:#022727;}
+
+h1 {color:#ffffff;font-size23;}
+
+p {color:red;font-size21;}
+
+h3 {color: #ffffff;font: size 21px;}
+
+a {color:cyan;fontsize19;}
+
+img {width: 100px;
+height: auto;
+}
+
+h1 {background-color: darkgray;}
+
+h2 {color:white;font-size21;}
+
+button {color:blue;}
+
+button {width: 40px;
+height:auto;
+}
+
+ob {
+  position: fixed;
+  top: 20px;      right: 20px;      z-index: 1000;  
+}
+
+
+/* تنسيق زر التحميل */
+.download-btn {
+    display: inline-block;
+    background-color: #ef4444; /* لون الزرار أحمر */
+    color: #000000;            /* لون الكلام أسود */
+    font-weight: bold;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid #b91c1c;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+
+ button {
+    display: inline-block;
+    background-color: #ef4444; /* لون الزرار أحمر */
+    color: #000000;            /* لون الكلام أسود */
+    font-weight: bold;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid #b91c1c;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+
+.download-btn:hover {
+    background-color: #dc2626;    transform: translateY(-2px);
+}
